@@ -1,22 +1,21 @@
-<!-- ===================== HEADER ===================== -->
+<!-- Profile Header -->
 
-<h1 align="center">Hi 👋, I'm Maaz Habib</h1>
+<h1 align="center">Hi, I'm Maaz Habib 👋</h1>
 
 <h3 align="center">
-  Full-Stack Developer • Laravel • Vue.js • Flutter
+  Full-Stack Developer | Laravel | Vue.js | Flutter
 </h3>
 
 <p align="center">
-  I build modern, scalable web and mobile applications with a focus on
-  clean UI, reliable backend systems, and great user experiences.
+  I build modern, scalable, and user-focused web and mobile applications.
 </p>
 
 <p align="center">
   <a href="https://maazhabib.com">
-    <img src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/maazhabib">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-maazhabib-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -24,109 +23,98 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer focused on **Laravel, Vue.js, and Flutter**
-- 🚀 Building modern web applications, dashboards, APIs, and mobile apps
-- 🧠 Interested in scalable architecture, automation, and AI-powered systems
-- 🛠️ Experienced in developing business solutions and custom software
+I'm a passionate full-stack developer focused on building reliable, scalable, and visually appealing applications.
+
+- 🔭 Currently working on web, mobile, ERP, and automation projects
+- 🌱 Continuously improving my skills in Laravel, Vue.js, Flutter, and system architecture
+- 🧠 Interested in AI-powered business automation and data analytics
+- 🛠️ Experienced in developing APIs, dashboards, e-commerce systems, POS systems, and mobile applications
+- 🎯 Focused on writing clean, maintainable, and production-ready code
 - 🌐 Portfolio: [maazhabib.com](https://maazhabib.com)
-- 📚 Always learning and improving my development skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Backend Development
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,html,css" alt="Languages" />
 </p>
 
-### Frontend Development
+### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,js,html,css,tailwind" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,flutter,tailwind,bootstrap" alt="Frameworks and Libraries" />
 </p>
 
-### Mobile & Database
+### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,mysql,firebase" alt="Mobile and Database Technologies"/>
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,postman,figma" alt="Databases and Tools" />
 </p>
 
 ---
 
 ## 🚀 What I Build
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 Web Development</h3>
-      <p>Modern, responsive business applications and custom web solutions.</p>
-    </td>
-    <td width="50%">
-      <h3>⚙️ Backend Development</h3>
-      <p>Laravel APIs, backend systems, authentication, and business logic.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📱 Mobile Development</h3>
-      <p>Cross-platform Flutter applications with modern user experiences.</p>
-    </td>
-    <td width="50%">
-      <h3>📊 Admin Dashboards</h3>
-      <p>Management panels, analytics interfaces, and business tools.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔗 API Integration</h3>
-      <p>Third-party services, ERP integrations, and connected systems.</p>
-    </td>
-    <td width="50%">
-      <h3>🤖 Automation & AI</h3>
-      <p>Smart workflows, analytics, and intelligent business solutions.</p>
-    </td>
-  </tr>
-</table>
+| Area | Description |
+|------|-------------|
+| 🌐 Web Applications | Modern and scalable web applications |
+| ⚙️ REST APIs | Secure and structured backend APIs |
+| 📱 Mobile Applications | Cross-platform applications using Flutter |
+| 🛒 E-commerce Systems | Product, order, payment, and customer management |
+| 🧾 POS Systems | Sales, inventory, billing, and reporting solutions |
+| 🏢 ERP Integrations | Integration with external ERP and business systems |
+| 📊 Admin Dashboards | Data-driven dashboards and management panels |
+| 🤖 AI Automation | Analytics, forecasting, and intelligent business workflows |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚛 Business & ERP Systems
-Custom business management solutions, ERP integrations, and operational dashboards.
+### 🏢 Business & ERP Systems
 
-### 📱 Flutter Mobile Applications
-Modern cross-platform mobile applications with API-driven functionality.
+- ERP and inventory management systems
+- Warehouse automation and analytics platforms
+- POS and sales management systems
+- Accounting and reporting dashboards
+- Third-party ERP API integrations
 
-### 📊 Analytics & Automation
-Business analytics, warehouse automation, reporting, and intelligent workflows.
+### 📱 Mobile Applications
 
-### 🔌 API Integrations
-Connecting external services and business systems through reliable APIs.
+- Flutter-based business applications
+- Digital card and recharge applications
+- Payment and wallet-based applications
+- Customer and wholesaler management apps
+
+### 🌐 Web Applications
+
+- E-commerce platforms
+- Admin dashboards
+- Custom business management systems
+- API-driven web applications
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=maazhabib&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF"
-    height="165"
-    alt="Maaz's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazhabib&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=9CA3AF"
-    height="165"
-    alt="Top Languages"
-  />
+  <a href="https://maazhabib.com">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=maazhabib&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF"
+      height="165"
+      alt="Maaz's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://maazhabib.com">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazhabib&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=9CA3AF"
+      height="165"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 ---
@@ -134,25 +122,46 @@ Connecting external services and business systems through reliable APIs.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=maazhabib&bg_color=00000000&color=9CA3AF&line=F59E0B&point=F59E0B&area=true&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <a href="https://maazhabib.com">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=maazhabib&bg_color=00000000&color=9CA3AF&line=F59E0B&point=F59E0B&area=true&hide_border=true"
+      alt="Contribution Graph"
+      width="95%"
+    />
+  </a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://maazhabib.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=maazhabib&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+      alt="GitHub Trophies"
+    />
   </a>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://maazhabib.com">
+    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
   <a href="https://github.com/maazhabib">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Built with passion for clean code and great products.</sub>
+  <strong>Let's build something meaningful together.</strong>
 </p>
