@@ -10,11 +10,17 @@
 
 <p align="center">
   <a href="https://maazhabib.com/?github=1">
-    <img src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img
+      src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    >
   </a>
 
   <a href="https://github.com/maazhabib">
-    <img src="https://img.shields.io/badge/GitHub-maazhabib-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://img.shields.io/badge/GitHub-maazhabib-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
   </a>
 </p>
 
@@ -38,19 +44,28 @@ I'm a full-stack developer focused on building reliable, scalable, and visually 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,html,css" alt="Languages">
+  <img
+    src="https://skillicons.dev/icons?i=php,js,ts,dart,html,css"
+    alt="Languages"
+  >
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,flutter,tailwind,bootstrap" alt="Frameworks">
+  <img
+    src="https://skillicons.dev/icons?i=laravel,vue,flutter,tailwind,bootstrap"
+    alt="Frameworks"
+  >
 </p>
 
 ### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,postman,figma" alt="Tools">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,postman,figma"
+    alt="Databases and Tools"
+  >
 </p>
 
 ---
@@ -85,7 +100,7 @@ I'm a full-stack developer focused on building reliable, scalable, and visually 
 - Flutter-based business applications
 - Digital card and recharge applications
 - Payment and wallet-based applications
-- Customer and wholesaler management apps
+- Customer and wholesaler management applications
 
 ### 🌐 Web Applications
 
@@ -99,19 +114,19 @@ I'm a full-stack developer focused on building reliable, scalable, and visually 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://maazhabib.com/?github=1">
+  <a href="https://github.com/maazhabib">
     <img
       src="https://github-readme-stats.vercel.app/api?username=maazhabib&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF"
       height="165"
-      alt="Maaz's GitHub Stats"
+      alt="Maaz Habib GitHub Stats"
     >
   </a>
 
-  <a href="https://maazhabib.com/?github=1">
+  <a href="https://github.com/maazhabib">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazhabib&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=9CA3AF"
       height="165"
-      alt="Top Languages"
+      alt="Most Used Languages"
     >
   </a>
 </p>
@@ -121,39 +136,80 @@ I'm a full-stack developer focused on building reliable, scalable, and visually 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://maazhabib.com/?github=1">
+  <a href="https://github.com/maazhabib">
     <img
       src="https://streak-stats.demolab.com/?user=maazhabib&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B"
-      alt="GitHub Streak"
+      alt="Maaz Habib GitHub Streak"
     >
   </a>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <a href="https://maazhabib.com/?github=1">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./github-snake-dark.svg"
+    >
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./github-snake.svg"
+    >
+
     <img
-      src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=maazhabib&theme=dark&size=large"
-      alt="Maaz Habib Contribution Graph"
+      src="./github-snake.svg"
+      alt="GitHub Contribution Snake"
       width="95%"
     >
-  </a>
+  </picture>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://maazhabib.com/?github=1">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=maazhabib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF"
+    alt="GitHub Activity"
+  >
+
+</p>
+
+---
+
+## 🌟 GitHub Profile
+
+<p align="center">
+
+  <a href="https://github.com/maazhabib">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=maazhabib&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
-      alt="GitHub Trophies"
+      src="https://img.shields.io/github/followers/maazhabib?style=for-the-badge&logo=github&label=Followers"
+      alt="GitHub Followers"
     >
   </a>
+
+  <a href="https://github.com/maazhabib?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/maazhabib?style=for-the-badge&logo=github&label=Stars"
+      alt="GitHub Stars"
+    >
+  </a>
+
+  <a href="https://github.com/maazhabib">
+    <img
+      src="https://komarev.com/ghpvc/?username=maazhabib&style=for-the-badge&color=F59E0B"
+      alt="Profile Views"
+    >
+  </a>
+
 </p>
 
 ---
