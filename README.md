@@ -1,246 +1,270 @@
-<h1 align="center">Hi, I'm Maaz Habib 👋</h1>
-
-<h3 align="center">
-  Full-Stack Developer | Laravel | Vue.js | Flutter
-</h3>
+<h1 align="center">Maaz Habib</h1>
 
 <p align="center">
-  I build modern, scalable, and user-focused web and mobile applications.
+  <strong>Full-Stack Developer · Backend Engineer · API & Business Systems</strong>
+</p>
+
+<p align="center">
+  Laravel · PHP · Vue.js · Flutter · REST APIs · MySQL · Linux · Cloud Deployment
 </p>
 
 <p align="center">
   <a href="https://maazhabib.com/?github=1">
-    <img
-      src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white"
-      alt="Portfolio"
-    >
+    <img src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-
   <a href="https://github.com/maazhabib">
-    <img
-      src="https://img.shields.io/badge/GitHub-maazhabib-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
+    <img src="https://img.shields.io/badge/GitHub-Maaz%20Habib-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://github.com/maazhabib?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View%20Repositories-333333?style=flat-square&logo=github&logoColor=white" alt="Projects">
   </a>
 </p>
 
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=F59E0B&height=2&section=header"
+    width="70%"
+    alt=""
+  >
+</p>
+
+## About
+
+I'm a **Full-Stack Developer** focused on building reliable, scalable and production-ready software for businesses.
+
+My primary experience is around **Laravel and PHP backend development**, combined with modern frontend and mobile technologies.
+
+I work across the complete development lifecycle — from database design and REST APIs to frontend applications, third-party integrations, server configuration and cloud deployment.
+
+### Areas of Focus
+
+- Backend development with **PHP & Laravel**
+- RESTful API architecture and integrations
+- Modern web applications with **Vue.js**
+- Cross-platform mobile applications with **Flutter**
+- ERP, POS and business management systems
+- E-commerce and payment integrations
+- Database architecture and optimization
+- Linux server administration and deployment
+- AI-powered business automation
+- Third-party API and system integrations
+
 ---
 
-## 👨‍💻 About Me
+## Core Expertise
 
-I'm a full-stack developer focused on building reliable, scalable, and visually appealing applications.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔭 Working on web, mobile, ERP, and automation projects
-- 🌱 Continuously improving my skills in Laravel, Vue.js, Flutter, and system architecture
-- 🧠 Interested in AI-powered business automation and data analytics
-- 🛠️ Experienced in APIs, dashboards, e-commerce systems, POS systems, and mobile applications
-- 🎯 Focused on clean, maintainable, and production-ready code
-- 🌐 Portfolio: [maazhabib.com](https://maazhabib.com/?github=1)
+### Backend
+
+- PHP
+- Laravel
+- REST APIs
+- Authentication & Authorization
+- MySQL
+- PostgreSQL
+- API Integrations
+- Payment Integrations
+
+</td>
+
+<td width="50%" valign="top">
+
+### Frontend & Mobile
+
+- Vue.js
+- React
+- Inertia.js
+- JavaScript
+- TypeScript
+- Flutter
+- Responsive UI
+- API-driven Applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Business Systems
+
+- ERP Systems
+- Inventory Management
+- POS Systems
+- E-commerce
+- Warehouse Management
+- Reporting & Dashboards
+- Workflow Automation
+- Third-party ERP Integration
+
+</td>
+
+<td width="50%" valign="top">
+
+### Infrastructure
+
+- Linux
+- Ubuntu
+- Nginx
+- Apache
+- Docker
+- Git
+- Cloud Deployment
+- Server Administration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## Technology Stack
 
 ### Languages
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=php,js,ts,dart,html,css"
-    alt="Languages"
-  >
+  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,html,css" alt="Languages">
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=laravel,vue,flutter,tailwind,bootstrap"
-    alt="Frameworks"
-  >
+  <img src="https://skillicons.dev/icons?i=laravel,vue,react,flutter,inertia,tailwind,bootstrap" alt="Frameworks">
 </p>
 
-### Databases & Tools
+### Databases & Infrastructure
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,postman,figma"
-    alt="Databases and Tools"
-  >
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,docker,linux,nginx" alt="Databases and Infrastructure">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" alt="Development Tools">
 </p>
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
-| Area | Description |
-|------|-------------|
-| 🌐 Web Applications | Modern and scalable web applications |
-| ⚙️ REST APIs | Secure and structured backend APIs |
-| 📱 Mobile Applications | Cross-platform applications using Flutter |
-| 🛒 E-commerce Systems | Product, order, payment, and customer management |
-| 🧾 POS Systems | Sales, inventory, billing, and reporting solutions |
-| 🏢 ERP Integrations | Integration with external ERP and business systems |
-| 📊 Admin Dashboards | Data-driven dashboards and management panels |
-| 🤖 AI Automation | Analytics, forecasting, and intelligent business workflows |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Business Applications
 
-## 📌 Featured Projects
+Custom software designed around real business workflows.
 
-### 🏢 Business & ERP Systems
+- ERP systems
+- Inventory platforms
+- POS applications
+- Warehouse management
+- Customer management
+- Sales & purchasing systems
 
-- ERP and inventory management systems
-- Warehouse automation and analytics platforms
-- POS and sales management systems
-- Accounting and reporting dashboards
-- Third-party ERP API integrations
+</td>
 
-### 📱 Mobile Applications
+<td width="50%" valign="top">
 
-- Flutter-based business applications
-- Digital card and recharge applications
-- Payment and wallet-based applications
-- Customer and wholesaler management applications
+### APIs & Integrations
 
-### 🌐 Web Applications
+Scalable backend systems connecting applications and external services.
 
-- E-commerce platforms
+- REST APIs
+- Third-party APIs
+- Payment gateways
+- ERP integrations
+- Authentication systems
+- Automated workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Web Applications
+
+Modern web applications focused on performance and maintainability.
+
+- Laravel applications
+- Vue.js interfaces
 - Admin dashboards
-- Custom business management systems
-- API-driven web applications
+- E-commerce platforms
+- Reporting systems
+- Data-driven applications
+
+</td>
+
+<td width="50%" valign="top">
+
+### Mobile Applications
+
+Cross-platform applications built with Flutter.
+
+- Business applications
+- Customer applications
+- Digital services
+- Payment & wallet systems
+- API-connected mobile apps
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## Selected Work
 
-<p align="center">
-  <a href="https://github.com/maazhabib">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=maazhabib&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF"
-      height="165"
-      alt="Maaz Habib GitHub Stats"
-    >
-  </a>
+### ERP & Business Management
 
-  <a href="https://github.com/maazhabib">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazhabib&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=9CA3AF"
-      height="165"
-      alt="Most Used Languages"
-    >
-  </a>
-</p>
+Building business systems that manage operational workflows, inventory, sales, purchasing and reporting.
 
----
+**Technologies:** Laravel · PHP · MySQL · Vue.js · REST APIs
 
-## 🔥 GitHub Streak
+### Warehouse & Inventory Automation
 
-<p align="center">
-  <a href="https://github.com/maazhabib">
-    <img
-      src="https://streak-stats.demolab.com/?user=maazhabib&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B"
-      alt="Maaz Habib GitHub Streak"
-    >
-  </a>
-</p>
+Business-focused inventory and warehouse workflows covering stock movement, purchasing, production, transfers and reporting.
+
+**Technologies:** Laravel · MySQL · APIs · Automation
+
+### API & System Integrations
+
+Connecting business applications with external platforms and services through structured APIs and automated workflows.
+
+**Technologies:** Laravel · REST APIs · Authentication · Third-party Integrations
+
+### Flutter Applications
+
+Cross-platform mobile applications connected to production backend APIs and business systems.
+
+**Technologies:** Flutter · Dart · REST APIs · Firebase
 
 ---
 
-## 🐍 Contribution Activity
+## Engineering Approach
 
-<p align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./github-snake-dark.svg"
-    >
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./github-snake.svg"
-    >
-
-    <img
-      src="./github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="95%"
-    >
-  </picture>
-
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=maazhabib&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF"
-    alt="GitHub Activity"
-  >
-
-</p>
-
----
-
-## 🌟 GitHub Profile
-
-<p align="center">
-
-  <a href="https://github.com/maazhabib">
-    <img
-      src="https://img.shields.io/github/followers/maazhabib?style=for-the-badge&logo=github&label=Followers"
-      alt="GitHub Followers"
-    >
-  </a>
-
-  <a href="https://github.com/maazhabib?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/maazhabib?style=for-the-badge&logo=github&label=Stars"
-      alt="GitHub Stars"
-    >
-  </a>
-
-  <a href="https://github.com/maazhabib">
-    <img
-      src="https://komarev.com/ghpvc/?username=maazhabib&style=for-the-badge&color=F59E0B"
-      alt="Profile Views"
-    >
-  </a>
-
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-
-  <a href="https://maazhabib.com/?github=1">
-    <img
-      src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white"
-      alt="Portfolio"
-    >
-  </a>
-
-  <a href="https://github.com/maazhabib">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    >
-  </a>
-
-</p>
-
-<p align="center">
-  <strong>Let's build something meaningful together.</strong>
-</p>
+```text
+Business Requirements
+        ↓
+System Architecture
+        ↓
+Database Design
+        ↓
+Backend / API Development
+        ↓
+Frontend / Mobile Development
+        ↓
+Third-Party Integrations
+        ↓
+Testing & Optimization
+        ↓
+Deployment
+        ↓
+Monitoring & Maintenance
