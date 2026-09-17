@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://maazhabib.com/?github=1">
+  <a href="https://maazhabib.com/?utm_source=github.com">
     <img src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/maazhabib">
@@ -40,16 +40,16 @@ I work across the complete development lifecycle — from database design and RE
 
 ### Areas of Focus
 
-- Backend development with **PHP & Laravel**
-- RESTful API architecture and integrations
-- Modern web applications with **Vue.js**
-- Cross-platform mobile applications with **Flutter**
-- ERP, POS and business management systems
-- E-commerce and payment integrations
-- Database architecture and optimization
-- Linux server administration and deployment
-- AI-powered business automation
-- Third-party API and system integrations
+* Backend development with **PHP & Laravel**
+* RESTful API architecture and integrations
+* Modern web applications with **Vue.js**
+* Cross-platform mobile applications with **Flutter**
+* ERP, POS and business management systems
+* E-commerce and payment integrations
+* Database architecture and optimization
+* Linux server administration and deployment
+* AI-powered business automation
+* Third-party API and system integrations
 
 ---
 
@@ -61,14 +61,14 @@ I work across the complete development lifecycle — from database design and RE
 
 ### Backend
 
-- PHP
-- Laravel
-- REST APIs
-- Authentication & Authorization
-- MySQL
-- PostgreSQL
-- API Integrations
-- Payment Integrations
+* PHP
+* Laravel
+* REST APIs
+* Authentication & Authorization
+* MySQL
+* PostgreSQL
+* API Integrations
+* Payment Integrations
 
 </td>
 
@@ -76,14 +76,14 @@ I work across the complete development lifecycle — from database design and RE
 
 ### Frontend & Mobile
 
-- Vue.js
-- React
-- Inertia.js
-- JavaScript
-- TypeScript
-- Flutter
-- Responsive UI
-- API-driven Applications
+* Vue.js
+* React
+* Inertia.js
+* JavaScript
+* TypeScript
+* Flutter
+* Responsive UI
+* API-driven Applications
 
 </td>
 </tr>
@@ -93,14 +93,14 @@ I work across the complete development lifecycle — from database design and RE
 
 ### Business Systems
 
-- ERP Systems
-- Inventory Management
-- POS Systems
-- E-commerce
-- Warehouse Management
-- Reporting & Dashboards
-- Workflow Automation
-- Third-party ERP Integration
+* ERP Systems
+* Inventory Management
+* POS Systems
+* E-commerce
+* Warehouse Management
+* Reporting & Dashboards
+* Workflow Automation
+* Third-party ERP Integration
 
 </td>
 
@@ -108,14 +108,14 @@ I work across the complete development lifecycle — from database design and RE
 
 ### Infrastructure
 
-- Linux
-- Ubuntu
-- Nginx
-- Apache
-- Docker
-- Git
-- Cloud Deployment
-- Server Administration
+* Linux
+* Ubuntu
+* Nginx
+* Apache
+* Docker
+* Git
+* Cloud Deployment
+* Server Administration
 
 </td>
 </tr>
@@ -161,12 +161,12 @@ I work across the complete development lifecycle — from database design and RE
 
 Custom software designed around real business workflows.
 
-- ERP systems
-- Inventory platforms
-- POS applications
-- Warehouse management
-- Customer management
-- Sales & purchasing systems
+* ERP systems
+* Inventory platforms
+* POS applications
+* Warehouse management
+* Customer management
+* Sales & purchasing systems
 
 </td>
 
@@ -176,12 +176,12 @@ Custom software designed around real business workflows.
 
 Scalable backend systems connecting applications and external services.
 
-- REST APIs
-- Third-party APIs
-- Payment gateways
-- ERP integrations
-- Authentication systems
-- Automated workflows
+* REST APIs
+* Third-party APIs
+* Payment gateways
+* ERP integrations
+* Authentication systems
+* Automated workflows
 
 </td>
 </tr>
@@ -193,12 +193,12 @@ Scalable backend systems connecting applications and external services.
 
 Modern web applications focused on performance and maintainability.
 
-- Laravel applications
-- Vue.js interfaces
-- Admin dashboards
-- E-commerce platforms
-- Reporting systems
-- Data-driven applications
+* Laravel applications
+* Vue.js interfaces
+* Admin dashboards
+* E-commerce platforms
+* Reporting systems
+* Data-driven applications
 
 </td>
 
@@ -206,13 +206,13 @@ Modern web applications focused on performance and maintainability.
 
 ### Mobile Applications
 
-Cross-platform applications built with Flutter.
+Cross-platform mobile applications built with Flutter.
 
-- Business applications
-- Customer applications
-- Digital services
-- Payment & wallet systems
-- API-connected mobile apps
+* Business applications
+* Customer applications
+* Digital services
+* Payment & wallet systems
+* API-connected mobile apps
 
 </td>
 </tr>
@@ -268,3 +268,18 @@ Testing & Optimization
 Deployment
         ↓
 Monitoring & Maintenance
+```
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://maazhabib.com/?utm_source=github.com">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building reliable software, APIs and business systems.</strong>
+</p>
