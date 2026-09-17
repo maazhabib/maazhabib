@@ -1,5 +1,3 @@
-<!-- Profile Header -->
-
 <h1 align="center">Hi, I'm Maaz Habib 👋</h1>
 
 <h3 align="center">
@@ -11,11 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://maazhabib.com">
-    <img src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://maazhabib.com/?github=1">
+    <img src="https://img.shields.io/badge/Portfolio-maazhabib.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
+
   <a href="https://github.com/maazhabib">
-    <img src="https://img.shields.io/badge/GitHub-maazhabib-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-maazhabib-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -23,14 +22,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer focused on building reliable, scalable, and visually appealing applications.
+I'm a full-stack developer focused on building reliable, scalable, and visually appealing applications.
 
-- 🔭 Currently working on web, mobile, ERP, and automation projects
+- 🔭 Working on web, mobile, ERP, and automation projects
 - 🌱 Continuously improving my skills in Laravel, Vue.js, Flutter, and system architecture
 - 🧠 Interested in AI-powered business automation and data analytics
-- 🛠️ Experienced in developing APIs, dashboards, e-commerce systems, POS systems, and mobile applications
-- 🎯 Focused on writing clean, maintainable, and production-ready code
-- 🌐 Portfolio: [maazhabib.com](https://maazhabib.com)
+- 🛠️ Experienced in APIs, dashboards, e-commerce systems, POS systems, and mobile applications
+- 🎯 Focused on clean, maintainable, and production-ready code
+- 🌐 Portfolio: [maazhabib.com](https://maazhabib.com/?github=1)
 
 ---
 
@@ -39,19 +38,19 @@ I'm a passionate full-stack developer focused on building reliable, scalable, an
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,html,css" alt="Languages">
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,flutter,tailwind,bootstrap" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,flutter,tailwind,bootstrap" alt="Frameworks">
 </p>
 
 ### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,postman,figma" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,postman,figma" alt="Tools">
 </p>
 
 ---
@@ -100,20 +99,33 @@ I'm a passionate full-stack developer focused on building reliable, scalable, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://maazhabib.com">
+  <a href="https://maazhabib.com/?github=1">
     <img
       src="https://github-readme-stats.vercel.app/api?username=maazhabib&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=9CA3AF"
       height="165"
       alt="Maaz's GitHub Stats"
-    />
+    >
   </a>
 
-  <a href="https://maazhabib.com">
+  <a href="https://maazhabib.com/?github=1">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazhabib&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=9CA3AF"
       height="165"
       alt="Top Languages"
-    />
+    >
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://maazhabib.com/?github=1">
+    <img
+      src="https://streak-stats.demolab.com/?user=maazhabib&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B"
+      alt="GitHub Streak"
+    >
   </a>
 </p>
 
@@ -122,12 +134,12 @@ I'm a passionate full-stack developer focused on building reliable, scalable, an
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://maazhabib.com">
+  <a href="https://maazhabib.com/?github=1">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=maazhabib&bg_color=00000000&color=9CA3AF&line=F59E0B&point=F59E0B&area=true&hide_border=true"
-      alt="Contribution Graph"
+      src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=maazhabib&theme=dark&size=large"
+      alt="Maaz Habib Contribution Graph"
       width="95%"
-    />
+    >
   </a>
 </p>
 
@@ -136,11 +148,11 @@ I'm a passionate full-stack developer focused on building reliable, scalable, an
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://maazhabib.com">
+  <a href="https://maazhabib.com/?github=1">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=maazhabib&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+      src="https://github-profile-trophy.vercel.app/?username=maazhabib&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
       alt="GitHub Trophies"
-    />
+    >
   </a>
 </p>
 
@@ -149,17 +161,28 @@ I'm a passionate full-stack developer focused on building reliable, scalable, an
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://maazhabib.com">
-    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+
+  <a href="https://maazhabib.com/?github=1">
+    <img
+      src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    >
   </a>
 
   <a href="https://github.com/maazhabib">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
   </a>
 
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    >
   </a>
+
 </p>
 
 <p align="center">
